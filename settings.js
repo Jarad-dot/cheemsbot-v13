@@ -20,9 +20,9 @@ global.gitprof = 'https://github.com/DebashisX2/'
 global.tg = 'https://t.me/Debashis_005'
 global.walink = 'https://wa.me/qr/ZPZ7Z6WYJ752O1'
 //new
-global.botname = '꧁﴿»✥«·-𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘-𝕭𝖔𝖙-·»✥«﴾꧂' //ur bot name
-global.ownernumber = '919339619072' //ur owner number
-global.ownername = '꧁﴿☬✞ 𝔇𝔢𝔟𝔞𝔰𝔥𝔦𝔰 𝔇𝔢𝔶 ✞☬﴾꧂™' //ur owner name
+global.botname = 'ᴹᴿ᭄𖤍𝐎𝐫𝐨𝐛𝐨𝐫𝐨𝐬᪣ᬼ⃟.𝐎𝐟𖤍𝐃𝐚𝐫𝐤𝐬𓅂  ' //ur bot name
+global.ownernumber = '221784278949' //ur owner number
+global.ownername = ᴹᴿ᭄𖤍𝐎𝐫𝐨𝐛𝐨𝐫𝐨𝐬᪣ᬼ⃟.𝐎𝐟𖤍𝐃𝐚𝐫𝐤𝐬𓅂 //ur owner name
 global.websitex = "https://www.facebook.com/Debashi.Dey.X1/"
 global.wagc = "https://chat.whatsapp.com/C4NU6KefgoLL9W8vpbhbEY"
 global.themeemoji = '📌'
@@ -30,9 +30,9 @@ global.wm = "▂▃▅▇█▓▒░ 𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘 𝕸𝖚
 global.botscript = 'https://github.com/DebashisX1/cheemsbot-v12' //script link
 global.packname = "Sticker By"
 global.author = "Debashis Dey\n\n+919339619072"
-global.creator = "919339619072@s.whatsapp.net"
+global.creator = "221784278949@s.whatsapp.net"
 global.xprefix = ''
-global.premium = ["919339619072"] // Premium User
+global.premium = ["221784278949"] // Premium User
 global.hituet = 0
 
 //bot sett
